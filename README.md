@@ -7,7 +7,7 @@ These files are taken from the THREE distribution.
 They are the pieces that are required for the CS559 workbooks. This is the minimum.
 If you want other things (like the sources or the documentations or examples), download the entire three package.
 
-This archive was created by downloading three.js-master on January 14, 2021.
+This archive was created by downloading three.js-master on January 14, 2022.
 It is THREE version **137**.
 
 The choices of files are based on last year (which might not be an informed choice).
